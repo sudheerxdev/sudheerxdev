@@ -37,7 +37,7 @@
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudheerrrrit&label=Profile%20views&color=0e75b6&style=flat" alt="sudherrrrit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudheerxdev&label=Profile%20views&color=0e75b6&style=flat" alt="sudherrrrit" /> </p>
 
 <hr/>
 
@@ -97,7 +97,7 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,ts" title="mongodb, MySQL, Scss"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" title="git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/></a></div> |
 
 
- <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudheerrrrit&theme=2077" height="180em" />
+ <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudheerxdev&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudheerrrrit&theme=2077" height="180em" /></p>
 
 <p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudheerrrrit&theme=2077" height="180em" />
