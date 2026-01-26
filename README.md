@@ -67,7 +67,7 @@
     📸 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#E4405F; color:white;">Instagram</button>
   </a>
 
-  <a href="https://linkedin.com/in/sudheer-coder" target="_blank">
+  <a href="https://linkedin.com/in/sudheer-coderc/" target="_blank">
     💼 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#0077B5; color:white;">LinkedIn</button>
   </a>
 
@@ -112,18 +112,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sudheerrrrit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sudheerxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerrrrit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=sudheerrrrit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sudheerxdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudheerrrrit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sudheerxdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudheerrrrit&icon=0&color=0)](https://visitcount.itsvg.in)
