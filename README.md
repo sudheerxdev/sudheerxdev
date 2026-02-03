@@ -1,11 +1,11 @@
 
+
 <p align="center"><img src="animation.gif" width="35%"></p> 
          
 <div style=" font-size: medium; color: #447ff7" align=center>  
                                  
   ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
  ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Sudheer%20Yadav&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
-      
   <!-- 
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!" alt="Rajat Joshi" width="650" height="55">  -->
