@@ -4,7 +4,6 @@
 ## 👨‍💻 About Me<br><br>🔭 I’m currently working on AI-powered full-stack projects and recommendation systems  <br>🤝 I’m looking to collaborate on open-source, startups, and innovative tech products  <br>🆘 I’m looking for help with scalable system design and advanced backend architecture  <br>🌱 I’m currently learning System Design, Machine Learning, and Cloud Technologies  <br>💬 Ask me about Web Development, DSA, AI Projects, and Full Stack Development  <br>⚡ Fun fact: I turn coffee ☕ into clean code and real products 🚀<br>
 
 
-
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sudheer_yaduvanshii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudheercodec/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudheer01yadav2005@gmail.com) 
 
