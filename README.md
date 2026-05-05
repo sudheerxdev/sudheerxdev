@@ -7,7 +7,7 @@
 
 
 
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on AI-powered full-stack projects and recommendation systems  <br>🤝 I’m looking to collaborate on open-source, startups, and innovative tech products  <br>🆘 I’m looking for help with scalable system design and advanced backend architecture  <br>🌱 I’m currently learning System Design, Machine Learning, and Cloud Technologies  <br>💬 Ask me about Web Development, DSA, AI Projects, and Full Stack Development  <br>⚡ Fun fact: I turn coffee ☕ into clean code and real products 🚀<br>
+## 👨‍💻 About Me<br><br> I’m currently working on AI-powered full-stack projects and recommendation systems  <br> I’m looking to collaborate on open-source, startups, and innovative tech products  <br> I’m looking for help with scalable system design and advanced backend architecture  <br>I’m currently learning System Design, Machine Learning, and Cloud Technologies  <br>💬 Ask me about Web Development, DSA, AI Projects, and Full Stack Development  <br> Fun fact: I turn coffee ☕ into clean code and real products <br>
 
 
 
@@ -24,6 +24,17 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudheerxdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerxdev&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0078D7&height=110&section=footer" />
+</p>
 
 
 ### ✍️ Random Dev Quote
