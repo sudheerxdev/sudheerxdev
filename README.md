@@ -30,7 +30,7 @@
   <!-- ROW #1 -->
   <tr>
     <td align="center" colspan="2">
-      <img src="https://terminal-identity-opal.vercel.app/api?name=nirmit27&username=nirmit27&role=Polyglot&tagline=Just+a+tech.&status=available+for+cool+internet+projects&command=npx+terminal-identity&theme=amber%2Fember&avatar=GG&pattern=grid&width=880&height=auto&accent=%23ff612b&barStyle=blocks&langStyle=icons&iconSize=lg&motion=pulse&contribTheme=constellation&contribRange=1y&contribMode=focus" width="100%" alt="Terminal identity card" />
+      <img src="https://terminal-identity-opal.vercel.app/api?name=SudheerYadav&username=sudheerxdev&role=Polyglot&tagline=Just+a+tech.&status=available+for+cool+internet+projects&command=npx+terminal-identity&theme=amber%2Fember&avatar=GG&pattern=grid&width=880&height=auto&accent=%23ff612b&barStyle=blocks&langStyle=icons&iconSize=lg&motion=pulse&contribTheme=constellation&contribRange=1y&contribMode=focus" width="100%" alt="Terminal identity card" />
     </td>
   </tr>
 
