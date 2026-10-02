@@ -66,8 +66,6 @@
 
 # 🌐 Socials
 
- # [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudheer_yaduvanshii)
-
 # [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheercodec/)
 
 # [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudheer01yadav2005@gmail.com) 
@@ -95,19 +93,13 @@
     />
   </a>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/" target="_blank">
-    <img
-      src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"
-      height="80"
-      alt="LeetCode"
-    />
-  </a>
- ![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)
 </p>
 
 
 # 📊 GitHub Stats:
+
+
+https://github-stats-extended.vercel.app/api?username=sudheerxdev&theme=radical
 
 
 ![Stats Card 4](https://awesome-github-stats.azurewebsites.net/user-stats/sudheerxdev?theme=github-dark&cardType=github)
