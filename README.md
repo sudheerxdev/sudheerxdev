@@ -78,29 +78,33 @@
 ## 💻 Coding Stats
 
 <p align="center">
+
+  <!-- Codeforces -->
   <img
     src="https://codeforces-readme-stats.vercel.app/api/card?username=Sudheer_yadav01&theme=github_dark&disable_animations=false&show_icons=true&force_username=true"
     height="180"
     alt="Codeforces Stats"
   />
 
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/sudheeryadav1/" target="_blank">
+    <img
+      src="https://gfgstatscard.vercel.app/sudheeryadav1"
+      height="180"
+      alt="GeeksforGeeks Stats"
+    />
+  </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/" target="_blank">
     <img
       src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"
-      height="70"
+      height="80"
       alt="LeetCode"
     />
   </a>
 
-  <a href="https://auth.geeksforgeeks.org/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
-      height="70"
-      alt="GeeksforGeeks"
-    />
-  </a>
 </p>
-
 
 
 # 📊 GitHub Stats:
